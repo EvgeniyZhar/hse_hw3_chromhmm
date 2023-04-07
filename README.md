@@ -15,8 +15,8 @@ IPNB: https://colab.research.google.com/drive/12qhfcVECwhARH3SQxrk0UaPUB0atZuVI?
 |H4K20me1 | H4k20me1.bam|
 |H2AFZ | H2az.bam|
 
-|Type|Characteristic labels|Comment|
-|----|-----|-----|
+|Type|Name|Characteristic labels|Comment|
+|----|-----|-----|----|
 |1	| Enhancer	| H3K4me2, H3K4me3, H3K9ac, H3K27ac, H2AFZ|  |
 |2	| Promoter	| H3K4me2, H3K4me1, H3K27ac, H2AFZ|  |	
 |3	| Enhancer	| H3K4me1, H3K4me2|   |	
